@@ -16,6 +16,6 @@ https://stream.ftv.az/live/ftv.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://trt.daioncdn.net/trt-1/master.m3u8?app=webCancelOK
 
-#EXTINF:-1 tvg-logo="https://ftv.az/assets/img/logo.png" group-title="Azərbaycan",Sultan Tv
+#EXTINF:-1 tvg-logo="https://ftv.az/assets/img/loggo.png" group-title="Azərbaycan",Sultan Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/elnurpubg2025-cmyk/sultan/refs/heads/main/sultantv.m3u8
