@@ -18,4 +18,5 @@ https://trt.daioncdn.net/trt-1/master.m3u8?app=webCancelOK
 
 #EXTINF:-1 tvg-logo="https://ftv.az/assets/img/loggo.png" group-title="Azərbaycan",Sultan Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://raw.githubusercontent.com/elnurpubg2025-cmyk/sultan/refs/heads/main/sultantv.m3u8
+https://github.com/elnurpubg2025-cmyk/sultan/raw/refs/heads/main/start.mp4
+
